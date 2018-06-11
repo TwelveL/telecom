@@ -1,0 +1,104 @@
+{
+    "code": 1,
+    "data":[
+        {
+            "id":"1",
+            "level":1,
+            "type":"group_admin",
+            "name": "组织权限管理",
+            "children": [
+                {
+                    "id":"1",
+                    "level":2,
+                    "type":"employee_admin",
+                    "name": "员工账号管理"
+                },{
+                    "id":"1",
+                    "level":2,
+                    "type":"menu_management",
+                    "name": "菜单管理"
+                },{
+                    "id":"1",
+                    "level":2,
+                    "type":"usefunction_admin",
+                    "name": "应用功能管理"
+                },{
+                    "id":"1",
+                    "level":2,
+                    "type":"organization_admin",
+                    "name": "组织机构管理"
+                },{
+                    "id":"1",
+                    "level":2,
+                    "type":"setsafe_admin",
+                    "name": "设置安全策略"
+                },{
+                    "id":"1",
+                    "level":2,
+                    "type":"workgroup_admin",
+                    "name": "工作组管理"
+                }
+            ]
+        },{
+            "id":"1",
+            "level":1,
+            "type":"ENTRY_CIVIL",
+            "name": "我的工作",
+            "children": [
+                {
+                    "id":"1",
+                    "level":2,
+                    "type":"employee_admin",
+                    "name": "移动工单调度（待办）"
+                },{
+                    "id":"1",
+                    "level":2,
+                    "type":"business_admin",
+                    "name": "社区立项-待办列表"
+                },{
+                    "id":"1",
+                    "level":2,
+                    "type":"usefunction_admin",
+                    "name": "移动工单查询（已办）"
+                },{
+                    "id":"1",
+                    "level":2,
+                    "type":"my_application",
+                    "name": "我的申请"
+                }
+            ]
+        },{
+            "id":"1",
+            "level":1,
+            "type":"ENTRY_CIVIL",
+            "name": "客户管理",
+            "children": [
+                
+            ]
+        },{
+            "id":"1",
+            "level":1,
+            "type":"ENTRY_CIVIL",
+            "name": "业务审批",
+            "children": [
+
+            ]
+        },{
+            "id":"1",
+            "level":1,
+            "type":"ENTRY_CIVIL",
+            "name": "工程管理",
+            "children": [
+
+            ]
+        },{
+            "id":"1",
+            "level":1,
+            "type":"ENTRY_CIVIL",
+            "name": "计费账务",
+            "children": [
+
+            ]
+        }
+    ]
+}
